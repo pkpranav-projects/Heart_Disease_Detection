@@ -24,4 +24,4 @@ Achieved approximately 85–90% accuracy.
 
 ## How to Run
 1. Install required libraries
-2. Run:
+2. Run
